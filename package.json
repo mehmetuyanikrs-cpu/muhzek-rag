@@ -1,0 +1,31 @@
+{
+  "name": "muhzek-rag",
+  "version": "0.1.0",
+  "description": "Türkçe mühendislik yönetmelikleri üzerinde çalışan uçtan uca RAG referans uygulaması (pgvector + Gemini embedding + LLM). End-to-end RAG reference app over Turkish engineering regulations.",
+  "keywords": ["rag", "retrieval-augmented-generation", "pgvector", "gemini", "embeddings", "turkish", "engineering"],
+  "license": "MIT",
+  "author": "Mehmet UYANIK (https://muhzekai.com)",
+  "repository": "github:mehmetuyanikrs-cpu/muhzek-rag",
+  "type": "module",
+  "scripts": {
+    "ingest": "tsx src/ingest.ts",
+    "ask": "tsx src/cli.ts",
+    "eval": "tsx eval/calistir.ts",
+    "dev": "tsx watch src/server.ts",
+    "start": "tsx src/server.ts",
+    "build": "tsc -p tsconfig.json",
+    "test": "tsx test/test.ts"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "pg": "^8.13.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.10.0",
+    "@types/pg": "^8.11.10",
+    "pdf-parse": "^1.1.1",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

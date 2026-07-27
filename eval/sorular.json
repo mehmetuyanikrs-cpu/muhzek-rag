@@ -1,0 +1,14 @@
+[
+  { "soru": "Kat yüksekliği İmar Yönetmeliği'nde nasıl tanımlanır?", "beklenenKaynak": "imar" },
+  { "soru": "Sundurma nedir, hangi amaçla yapılır?", "beklenenKaynak": "imar" },
+  { "soru": "Bodrum katta otopark, sığınak veya kömürlük yapılabilir mi?", "beklenenKaynak": "imar" },
+  { "soru": "Planlı Alanlar İmar Yönetmeliği hangi alanları kapsar?", "beklenenKaynak": "imar" },
+  { "soru": "Hususi otomobil sürücüleri için alkollü araç kullanma yasal sınırı kaç promildir?", "beklenenKaynak": "karayollari" },
+  { "soru": "Karayolları Trafik Yönetmeliği'nde motosiklet nasıl tanımlanır, azami tasarım hızı kaçtır?", "beklenenKaynak": "karayollari" },
+  { "soru": "M2 ve M3 sınıfı otobüs ve minibüslerde hız sınırlayıcı cihaz ayarı kaç km/s olmalıdır?", "beklenenKaynak": "karayollari" },
+  { "soru": "Çocuk Bağlama Sistemi hangi araçlarda ve ne zaman zorunludur?", "beklenenKaynak": "karayollari" },
+  { "soru": "HKMO Serbest Mühendislik Müşavirlik Büroları Tescil Yönetmeliği'nin amacı nedir?", "beklenenKaynak": "hkmo" },
+  { "soru": "Büro tescil ve yenileme ücretleri nasıl belirlenir?", "beklenenKaynak": "hkmo" },
+  { "soru": "Şube veya irtibat bürosunun tescil ücreti, büro tescil ücretiyle aynı mıdır?", "beklenenKaynak": "hkmo" },
+  { "soru": "Bugün hava nasıl, en sevdiğin renk ne?", "beklenenKaynak": null }
+]

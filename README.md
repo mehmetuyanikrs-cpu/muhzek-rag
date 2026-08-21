@@ -1,5 +1,10 @@
 # muhzek-rag
 
+[![CI](https://github.com/mehmetuyanikrs-cpu/muhzek-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/mehmetuyanikrs-cpu/muhzek-rag/actions/workflows/ci.yml)
+[![Lisans: MIT](https://img.shields.io/badge/lisans-MIT-blue.svg)](LICENSE)
+[![Node](https://img.shields.io/badge/node-%E2%89%A518-brightgreen.svg)](package.json)
+[![pgvector](https://img.shields.io/badge/pgvector-PostgreSQL-336791.svg)](docker-compose.yml)
+
 **Türkçe mühendislik yönetmelikleri üzerinde çalışan uçtan uca RAG (Retrieval-
 Augmented Generation) referans uygulaması.** PDF yönetmelik → parçalama →
 embedding → pgvector → benzerlik araması → LLM yanıtı, kaynak atıflı. Docker

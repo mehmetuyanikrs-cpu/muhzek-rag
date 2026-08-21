@@ -5,7 +5,7 @@
   "keywords": ["rag", "retrieval-augmented-generation", "pgvector", "gemini", "embeddings", "turkish", "engineering"],
   "license": "MIT",
   "author": "Mehmet UYANIK (https://muhzekai.com)",
-  "repository": "github:mehmetuyanikrs-cpu/muhzek-rag",
+  "repository": "github:mehmetuyanik-rs/muhzek-rag",
   "type": "module",
   "scripts": {
     "ingest": "tsx src/ingest.ts",

@@ -1,6 +1,6 @@
 # muhzek-rag
 
-[![CI](https://github.com/mehmetuyanikrs-cpu/muhzek-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/mehmetuyanikrs-cpu/muhzek-rag/actions/workflows/ci.yml)
+[![CI](https://github.com/mehmetuyanik-rs/muhzek-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/mehmetuyanik-rs/muhzek-rag/actions/workflows/ci.yml)
 [![Lisans: MIT](https://img.shields.io/badge/lisans-MIT-blue.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/node-%E2%89%A518-brightgreen.svg)](package.json)
 [![pgvector](https://img.shields.io/badge/pgvector-PostgreSQL-336791.svg)](docker-compose.yml)
@@ -62,7 +62,7 @@ flowchart LR
 ## Kurulum
 
 ```bash
-git clone https://github.com/mehmetuyanikrs-cpu/muhzek-rag.git
+git clone https://github.com/mehmetuyanik-rs/muhzek-rag.git
 cd muhzek-rag
 cp .env.example .env
 # .env içine kendi GEMINI_API_KEY'ini yaz
